@@ -1,28 +1,36 @@
-<h1 align="center">Hi 👋, I'm Bahadır Efe ERTÜRK</h1>
-<h3 align="center">Junior Backend Developer | Java & Spring Boot Enthusiast</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=efeerturk7&label=Profile%20views&color=0e75b6&style=flat" alt="efeerturk7" /> </p>
+# Hi there, I'm Bahadır Efe ERTÜRK 👋
+### Junior Backend Developer | Java & Spring Boot Enthusiast
 
-- 🌱 I’m currently learning **Docker & Containerization Principles**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/efeerturk7/efeerturk7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/efeerturk7/efeerturk7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/efeerturk7/efeerturk7/output/github-contribution-grid-snake.svg">
+</picture>
 
-- 👯 I’m looking to collaborate on [Enterprise Automotive Management APIs](https://github.com/efeerturk7/gallerist-backend-pro)
+---
 
-- 🤝 I’m looking for help with **Docker & Containerization Best Practices**
-
-- 👨‍💻 All of my projects are available at [https://github.com/efeerturk7](https://github.com/efeerturk7)
-
-- 📫 How to reach me **bahadirefeerturk@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bahadirefeerturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahadirefeerturk" height="30" width="40" /></a>
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efeerturk7&show_icons=true&locale=en&layout=compact" alt="efeerturk7" /></p>
+### 🚀 Flagship Project
+**[Gallerist - Enterprise Automotive Management API](https://github.com/efeerturk7/gallerist-backend-pro)** *Advanced Spring Boot API featuring JWT Refresh Token Rotation & External Currency Integration.*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efeerturk7&show_icons=true&locale=en" alt="efeerturk7" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efeerturk7&" alt="efeerturk7" /></p>
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/bahadirefeerturk/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bahadirefeerturk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+</div>
