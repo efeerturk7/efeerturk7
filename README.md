@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Bahadır Efe ERTÜRK 👋
+# Hi there, I'm Efe ERTÜRK 👋
 ### Junior Backend Developer | Java & Spring Boot Enthusiast
 
 <picture>
