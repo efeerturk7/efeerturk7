@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Efe ERTÜRK 👋
-### Junior Backend Developer | Java & Spring Boot Enthusiast
+### Junior Backend Developer | Java & Spring Boot 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/efeerturk7/efeerturk7/output/github-contribution-grid-snake-dark.svg">
