@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Efe ERTÜRK 👋
-### Java Backend Developer | Java & Spring Boot 
+### Backend Developer | Building Cloud-Native Solutions with Java & Spring Boot
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/efeerturk7/efeerturk7/output/github-contribution-grid-snake-dark.svg">
@@ -11,19 +11,26 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-Cloud-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 Flagship Project
-**[Gallerist - Enterprise Automotive Management API](https://github.com/efeerturk7/gallerist-backend-pro)** *Advanced Spring Boot API featuring JWT Refresh Token Rotation & External Currency Integration.*
+**[Gallerist - Cloud-Native Car Gallery API](https://github.com/efeerturk7/gallerist-backend-pro)**
+<br>
+*High-performance REST API built with **Spring Boot 3**. Features **Redis Caching** for speed, **Docker** for containerization, and fully automated **CI/CD** deployment on Cloud.*
 
 ---
 
