@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Efe ERTÜRK 👋
-### Backend Developer | Building Cloud-Native Solutions with Java & Spring Boot
+### Backend Developer | Building Cloud-Native & Event-Driven Solutions with Java & Spring Boot
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/efeerturk7/efeerturk7/output/github-contribution-grid-snake-dark.svg">
@@ -17,6 +17,9 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
   <br />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF4081?style=for-the-badge" />
+  <br />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <br />
@@ -27,7 +30,12 @@
 
 ---
 
-### 🚀 Flagship Project
+### 🚀 Featured Projects
+
+**[Event-Driven Microservices with Apache Kafka](https://github.com/efeerturk7/[repo-adını-buraya-yaz])**
+<br>
+*Production-grade microservices architecture demonstrating advanced event streaming patterns like **Idempotent Consumers**, **Dead Letter Queues (DLT)**, and **Poison Pill Prevention**.*
+
 **[Gallerist - Cloud-Native Car Gallery API](https://github.com/efeerturk7/gallerist-backend-pro)**
 <br>
 *High-performance REST API built with **Spring Boot 3**. Features **Redis Caching** for speed, **Docker** for containerization, and fully automated **CI/CD** deployment on Cloud.*
