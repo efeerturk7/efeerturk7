@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20AI-Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-FF4081?style=for-the-badge" />
