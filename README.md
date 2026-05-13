@@ -33,7 +33,7 @@
 
 ### 🚀 Featured Projects
 
-**[Event-Driven Microservices with Apache Kafka](https://github.com/efeerturk7/[repo-adını-buraya-yaz])**
+**[Event-Driven Microservices with Apache Kafka](https://github.com/efeerturk7/kafka-microservices-workspace)**
 <br>
 *Production-grade microservices architecture demonstrating advanced event streaming patterns like **Idempotent Consumers**, **Dead Letter Queues (DLT)**, and **Poison Pill Prevention**.*
 
