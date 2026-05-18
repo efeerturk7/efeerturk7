@@ -3,13 +3,6 @@
 # Hi there, I'm Efe ERTÜRK 👋
 ### Backend Developer | Building Cloud-Native & Event-Driven Solutions with Java & Spring Boot
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/efeerturk7/efeerturk7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/efeerturk7/efeerturk7/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/efeerturk7/efeerturk7/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
