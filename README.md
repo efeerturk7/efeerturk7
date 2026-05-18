@@ -36,11 +36,6 @@
 **[Event-Driven Microservices with Apache Kafka](https://github.com/efeerturk7/kafka-microservices-workspace)**
 <br>
 *Production-grade microservices architecture demonstrating advanced event streaming patterns like **Idempotent Consumers**, **Dead Letter Queues (DLT)**, and **Poison Pill Prevention**.*
-
-**[Gallerist - Cloud-Native Car Gallery API](https://github.com/efeerturk7/gallerist-backend-pro)**
-<br>
-*High-performance REST API built with **Spring Boot 3**. Features **Redis Caching** for speed, **Docker** for containerization, and fully automated **CI/CD** deployment on Cloud.*
-
 ---
 
 ### 📫 Connect with Me
