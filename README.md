@@ -34,9 +34,9 @@
 
 ###  Featured Projects
 
-**[Event-Driven Microservices with Apache Kafka](https://github.com/efeerturk7/kafka-microservices-workspace)**
+**[intelliCar](https://github.com/efeerturk7/intelliCar)**
 <br>
-*Production-grade microservices architecture demonstrating advanced event streaming patterns like **Idempotent Consumers**, **Dead Letter Queues (DLT)**, and **Poison Pill Prevention**.*
+*An AI-powered car marketplace backend built with Spring Boot, Spring AI (Gemini), Apache Kafka, and Redis, featuring event-driven workflows, AI-assisted vehicle recommendations and pricing, and integration testing with Testcontainers.*
 ---
 
 ###  Connect with Me
