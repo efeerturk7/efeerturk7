@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Efe ERTÜRK 👋
-### Systems-Oriented Backend Engineer | Distributed Systems & AI Integration
+### Java Backend Developer | Spring Boot, Kafka & Redis | Distributed Systems & Spring AI
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/efeerturk7/efeerturk7/output/github-contribution-grid-snake-dark.svg">
